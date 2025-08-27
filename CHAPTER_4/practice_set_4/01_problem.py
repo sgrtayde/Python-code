@@ -1,0 +1,17 @@
+fruat =  []
+f1 = input ("Enter a frut name :")
+fruat .append(f1)
+f2 = input ("Enter a frut name :")
+fruat .append(f2)
+f3 = input ("Enter a frut name :")
+fruat .append(f3)
+f4 = input ("Enter a frut name :")
+fruat .append(f4)
+f5 = input ("Enter a frut name :")
+fruat .append(f5)
+f16 = input ("Enter a frut name ")
+fruat .append(f16)
+f7 = input ("Enter a frut name :")
+fruat .append(f7)
+
+print(fruat)
